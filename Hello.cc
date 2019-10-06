@@ -14,8 +14,14 @@
 #include<conio.h>            // used for clrscr()
 void main(){
 	clrscr();
-	cout << "hello world";
+	cout << "Hello World";
 	cout << "/n"; // New line character
 	cout<<"This is Bhumika";
 	
-}	
+}
+
+/* Expected Output
+Hello World
+
+This is Bhumika
+*/
