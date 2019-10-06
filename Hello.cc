@@ -8,6 +8,12 @@
 // 	return 0;
 // }
 
+/* Expected Output
+hello world
+
+This is Neil
+*/
+
 // ------------OR-------------------
 
 #include<iostream.h>         
